@@ -12,20 +12,6 @@ public class PlayerSkin : MonoBehaviour
     private Dictionary<string, Sprite> pantsSpritesheet;
     private Dictionary<string, Sprite> shoesSpritesheet;
 
-    public List<int> ownedSkins = new List<int>();
-    public List<int> ownedHairs = new List<int>();
-    public List<int> ownedEyes = new List<int>();
-    public List<int> ownedShirts = new List<int>();
-    public List<int> ownedPants = new List<int>();
-    public List<int> ownedShoes = new List<int>();
-
-    private int _skinIndex = 4;
-    private int _hairIndex = 4;
-    private int _eyesIndex = 4;
-    private int _shirtIndex = 4;
-    private int _pantsIndex = 4;
-    private int _shoesIndex = 4;
-
     public SpriteRenderer skin;
     public SpriteRenderer hair;
     public SpriteRenderer eyes;
@@ -80,8 +66,7 @@ public class PlayerSkin : MonoBehaviour
 
         if(table["purshased"] != null)
         {
-            _skinIndex = (int)table["product_index"];
-            ownedSkins.Add(_skinIndex);
+            InventoryManager.Instance.AddItem(Constants.skin, (int)table["product_index"]);
         }
     }
 
@@ -91,8 +76,7 @@ public class PlayerSkin : MonoBehaviour
 
         if(table["purshased"] != null)
         {
-            _shirtIndex = (int)table["product_index"];
-            ownedShirts.Add(_shirtIndex);
+            InventoryManager.Instance.AddItem(Constants.shirt, (int)table["product_index"]);
         }
     }
     
@@ -102,8 +86,7 @@ public class PlayerSkin : MonoBehaviour
 
         if(table["purshased"] != null)
         {
-            _pantsIndex = (int)table["product_index"];
-            ownedPants.Add(_pantsIndex);
+            InventoryManager.Instance.AddItem(Constants.pants, (int)table["product_index"]);
         }
     }
 
@@ -113,8 +96,7 @@ public class PlayerSkin : MonoBehaviour
 
         if(table["purshased"] != null)
         {
-            _shoesIndex = (int)table["product_index"];
-            ownedShoes.Add(_shoesIndex);
+            InventoryManager.Instance.AddItem(Constants.shoes, (int)table["product_index"]);
         }
     }
 
@@ -124,8 +106,7 @@ public class PlayerSkin : MonoBehaviour
 
         if(table["purshased"] != null)
         {
-            _hairIndex = (int)table["product_index"];
-            ownedHairs.Add(_hairIndex);
+            InventoryManager.Instance.AddItem(Constants.front_hair, (int)table["product_index"]);
         }
     }
 
@@ -135,8 +116,7 @@ public class PlayerSkin : MonoBehaviour
 
         if(table["purshased"] != null)
         {
-            _eyesIndex = (int)table["product_index"];
-            ownedEyes.Add(_eyesIndex);
+            InventoryManager.Instance.AddItem(Constants.eyes, (int)table["product_index"]);
         }
     }
 
@@ -256,22 +236,22 @@ public class PlayerSkin : MonoBehaviour
     {
     	Sprite[] sprites;
 
-        sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.skin.ToString(), _skinIndex);
+        sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.skin.ToString(), InventoryManager.Instance.equipedSkinIndex);
     	skinSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.front_hair.ToString(), _hairIndex);
+    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.front_hair.ToString(), InventoryManager.Instance.equipedHairIndex);
     	hairSpritesheet = sprites.ToDictionary(x => x.name, x => x);
-
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.eyes.ToString(), _eyesIndex);
+        
+    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.eyes.ToString(), InventoryManager.Instance.equipedEyesIndex);
     	eyesSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.shirt.ToString(), _shirtIndex);
+    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.shirt.ToString(), InventoryManager.Instance.equipedShirtIndex);
     	shirtSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.pants.ToString(), _pantsIndex);
+    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.pants.ToString(), InventoryManager.Instance.equipedPantsIndex);
     	pantsSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.shoes.ToString(), _shoesIndex);
+    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.shoes.ToString(), InventoryManager.Instance.equipedShoesIndex);
     	shoesSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
     }

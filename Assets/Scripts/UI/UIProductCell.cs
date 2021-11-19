@@ -45,6 +45,8 @@ public class UIProductCell : MonoBehaviour
 
         buyButton.onClick.AddListener(
             ()=>{
+                UIPopupLayer.Instance.CloseInventory();
+
                 UIPopupConfirmation popup = UIPopupLayer.Instance.GetPopupByType<UIPopupConfirmation>();
                 popup.gameObject.SetActive(true);
 
@@ -58,9 +60,13 @@ public class UIProductCell : MonoBehaviour
                         if(Wallet.Instance.HasFunds(_productPrice))
                         {
                             Wallet.Instance.RemoveFunds(_productPrice);
-                            _table.Add("purshased", true);
+                            
+                            if(_table["purshased"] == null)
+                                _table.Add("purshased", true);
+
                             TryProductOn();
                             popup.gameObject.SetActive(false);
+                            UIPopupLayer.Instance.OpenInventory(_productType, true);
                         }else{
                             UIPopupAlert alert = UIPopupLayer.Instance.GetPopupByType<UIPopupAlert>();
                             alert.gameObject.SetActive(true);
@@ -73,6 +79,7 @@ public class UIProductCell : MonoBehaviour
                     },
                     ()=>{
                         popup.gameObject.SetActive(false);
+                        UIPopupLayer.Instance.OpenInventory(_productType, true);
                     }
                 );
             }

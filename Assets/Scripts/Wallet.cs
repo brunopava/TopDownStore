@@ -8,7 +8,7 @@ public class Wallet : Singleton<Wallet>
 
 	private void Awake()
 	{
-		funds = 100;
+		funds = 500;
 	}
 
 	public void AddFunds(int amount)

@@ -8,6 +8,7 @@ public class UIPopupLayer : Singleton<UIPopupLayer>
     public UIPopup[] _popups;
 
     private UIMenu _menu;
+    private UIInventory _inventory;
 
     private void Awake()
     {   
@@ -17,6 +18,7 @@ public class UIPopupLayer : Singleton<UIPopupLayer>
     private void Start()
     {
         _menu = GetPopupByType<UIMenu>();
+        _inventory = GetPopupByType<UIInventory>();
     }
 
     public void Update()
@@ -41,6 +43,37 @@ public class UIPopupLayer : Singleton<UIPopupLayer>
                 );
             }
         }
+
+        if(Input.GetKeyDown(KeyCode.I))
+        {
+            if(!_inventory.gameObject.activeSelf)
+            {
+                OpenInventory();
+            }
+        }
+    }
+
+    public void OpenInventory(string slot=Constants.skin, bool isSelling=false)
+    {
+        _inventory.gameObject.SetActive(true);
+        _inventory.SetupButtons();
+        _inventory.Initialize(
+            ()=>{
+                _inventory.gameObject.SetActive(false);
+            }
+        );
+        
+        _inventory.Reset(slot);
+
+        if(isSelling)
+        {
+            _inventory.SetSellingMode();
+        }
+    }
+
+    public void CloseInventory()
+    {
+        _inventory.gameObject.SetActive(false);
     }
 
     public void DisablePopups()

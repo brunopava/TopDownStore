@@ -49,8 +49,11 @@ public class NPCOpenStore : MonoBehaviour
                 NotificationCenter.DefaultCenter.PostNotification(this, "EnableMovement");
                 CameraController.Instance.ZoomOutPlayer();
                 NotificationCenter.DefaultCenter.PostNotification(this, "ResetSkin");
+                UIPopupLayer.Instance.CloseInventory();
             }
         );
+
+        UIPopupLayer.Instance.OpenInventory(productSelection.ToString(), true);
 		
 	}
 }

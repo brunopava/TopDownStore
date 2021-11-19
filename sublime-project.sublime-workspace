@@ -4,6 +4,254 @@
 		"selected_items":
 		[
 			[
+				"GEtCom",
+				"GetComponentsInChildren\t(UIPopupLayer.cs)"
+			],
+			[
+				"inve",
+				"inventoryIndex\t(UIInvetoryItem.cs)"
+			],
+			[
+				"inventor",
+				"inventoryItemIndex\tabc"
+			],
+			[
+				"_inve",
+				"_inventoryItemIndex\tabc"
+			],
+			[
+				"UIIn",
+				"UIInvetoryItem\tabc"
+			],
+			[
+				"invet",
+				"inventoryItemIndex\tabc"
+			],
+			[
+				"Shiw",
+				"ShowShirts\tabc"
+			],
+			[
+				"slo",
+				"slot\tabc"
+			],
+			[
+				"Equi",
+				"equipedSkinIndex"
+			],
+			[
+				"equipesh",
+				"equipedShoesIndex\t(InventoryManager.cs)"
+			],
+			[
+				"slot",
+				"slot\tabc"
+			],
+			[
+				"equi",
+				"equipedHairIndex\tabc"
+			],
+			[
+				"equipa",
+				"equipedPantsIndex\t(InventoryManager.cs)"
+			],
+			[
+				"equish",
+				"equipedShirtIndex\t(InventoryManager.cs)"
+			],
+			[
+				"buttons",
+				"buttonSkin\tabc"
+			],
+			[
+				"UII",
+				"UIInvetoryItem\t(UIInvetoryItem.cs)"
+			],
+			[
+				"_produ",
+				"_productPrice\tabc"
+			],
+			[
+				"price",
+				"_productPrice"
+			],
+			[
+				"amou",
+				"amountNecessary\tabc"
+			],
+			[
+				"moveme",
+				"movementDirection\tabc"
+			],
+			[
+				"walk-top",
+				"walk-top-right\tabc"
+			],
+			[
+				"produ",
+				"productIndex\tabc"
+			],
+			[
+				"owned",
+				"ownedEyes\tabc"
+			],
+			[
+				"owneds",
+				"ownedShirts\tabc"
+			],
+			[
+				"_sh",
+				"_shirtIndex\tabc"
+			],
+			[
+				"owne",
+				"ownedSkins\tabc"
+			],
+			[
+				"ADd",
+				"Add\tabc"
+			],
+			[
+				"zoomou",
+				"_isZoomingOut"
+			],
+			[
+				"Zo",
+				"ZoomOnPlayer\t(CameraController.cs)"
+			],
+			[
+				"zom",
+				"ZoomOutPlayer"
+			],
+			[
+				"zomon",
+				"ZoomOnPlayer"
+			],
+			[
+				"_is",
+				"_isZoomingOut\tabc"
+			],
+			[
+				"Init",
+				"InitButtons\t(UIProductCell.cs)"
+			],
+			[
+				"GEtCOm",
+				"GetComponentsInChildren\t(UIPopupLayer.cs)"
+			],
+			[
+				"_pop",
+				"_popupConfirmation\tabc"
+			],
+			[
+				"bu",
+				"buyButton\tabc"
+			],
+			[
+				"UIpop",
+				"UIPopupConfirmation\tabc"
+			],
+			[
+				"GetC",
+				"GetComponentsInChildren\t(UIPopupLayer.cs)"
+			],
+			[
+				"spri",
+				"sprite\t(UIProductCell.cs)"
+			],
+			[
+				"UIPop",
+				"UIPopupConfirmation\t(UIPopupLayer.cs)"
+			],
+			[
+				"Open",
+				"OpenPopupShop\t(UIPopupLayer.cs)"
+			],
+			[
+				"UIPO",
+				"UIPopupShop\t(UIPopupShop.cs)"
+			],
+			[
+				"popu",
+				"popupTitle\t(UIPopupLayer.cs)"
+			],
+			[
+				"UIPo",
+				"UIPopupConfirmation\t(UIPopupConfirmation.cs)"
+			],
+			[
+				"gameo",
+				"gameObject"
+			],
+			[
+				"produc",
+				"productSelection\tabc"
+			],
+			[
+				"sprite",
+				"spritesheet\tabc"
+			],
+			[
+				"Changesh",
+				"ChangeShirt\t(PlayerSkin.cs)"
+			],
+			[
+				"prod",
+				"productType\t(UIProductCell.cs)"
+			],
+			[
+				"_pro",
+				"_productType\tabc"
+			],
+			[
+				"but",
+				"Button"
+			],
+			[
+				"texture",
+				"texture2D\tabc"
+			],
+			[
+				"TExtur",
+				"Texture2D\tabc"
+			],
+			[
+				"shir",
+				"shirtSpritesheet\tabc"
+			],
+			[
+				"eye",
+				"eyesSpritesheet\tabc"
+			],
+			[
+				"hair",
+				"hairSpritesheet\tabc"
+			],
+			[
+				"Resou",
+				"ResourcesManager\t(ResourcesManager.cs)"
+			],
+			[
+				"pant",
+				"pantsIndex\tabc"
+			],
+			[
+				"shoe",
+				"shoesIndex\tabc"
+			],
+			[
+				"folde",
+				"folderFemale\tabc"
+			],
+			[
+				"asse",
+				"assetFolders\tabc"
+			],
+			[
+				"fol",
+				"folderMale\tabc"
+			],
+			[
 				"mar",
 				"margin-bottom\tabc"
 			],
@@ -18,10 +266,6 @@
 			[
 				"font",
 				"fontwhite\tabc"
-			],
-			[
-				"produc",
-				"product-number\tabc"
 			],
 			[
 				"margin",
@@ -96,10 +340,6 @@
 				"textfieldStatus\tabc"
 			],
 			[
-				"gameo",
-				"GameObject"
-			],
-			[
 				"Refre",
 				"RefreshStationManager\t(StationManager.cs)"
 			],
@@ -142,10 +382,6 @@
 			[
 				"_statio",
 				"_stationManager\tabc"
-			],
-			[
-				"_is",
-				"_isSimple\tabc"
 			],
 			[
 				"Waitfo",
@@ -256,10 +492,6 @@
 				"_stationsUserBelongs\tabc"
 			],
 			[
-				"UIPo",
-				"UIPopupLayer\tabc"
-			],
-			[
 				"user",
 				"userID\t(UIStationCell.cs)"
 			],
@@ -280,260 +512,27 @@
 				"OpenEDCAdminTab\t(StationManager.cs)"
 			],
 			[
-				"ADd",
-				"AddListener\tabc"
-			],
-			[
 				"Remove",
 				"RemoveAllListeners\tabc"
-			],
-			[
-				"Data",
-				"DatabaseManager.Instance.currentLoggedUser.userID\tabc"
-			],
-			[
-				"onerd",
-				"ownerID\tabc"
-			],
-			[
-				"own",
-				"owner_id"
-			],
-			[
-				"Plasmo",
-				"PlasmoUtils\tabc"
-			],
-			[
-				"Json",
-				"JSONObject\tabc"
-			],
-			[
-				"paneled",
-				"panelEDCAdmin\tabc"
-			],
-			[
-				"mana",
-				"managePercentages\tabc"
-			],
-			[
-				"Ad",
-				"AddListener\t(UIStationCell.cs)"
-			],
-			[
-				"Ust",
-				"UStellarManager\tabc"
-			],
-			[
-				"source",
-				"sourceKeyPair\tabc"
-			],
-			[
-				"Getba",
-				"GetBallance\tabc"
-			],
-			[
-				"as",
-				"async\tabc"
-			],
-			[
-				"chan",
-				"ChangeTrustToTPSAsync"
-			],
-			[
-				"Send",
-				"SendTPSAsync\tabc"
-			],
-			[
-				"air",
-				"air-con\tabc"
-			],
-			[
-				"ai",
-				"air-con\tabc"
-			],
-			[
-				"descri",
-				"description\tabc"
-			],
-			[
-				"collec",
-				"collect_share\t(services.php)"
-			],
-			[
-				"owner",
-				"ownerID\tabc"
-			],
-			[
-				"auto",
-				"autoApproveToggle"
-			],
-			[
-				"share",
-				"share_rate\t(services.php)"
-			],
-			[
-				"sharer",
-				"shareRate\tabc"
-			],
-			[
-				"shar",
-				"shareRateSlider\tabc"
-			],
-			[
-				"sharera",
-				"shareRateText\tabc"
-			],
-			[
-				"PLasmo",
-				"PlasmoUtils\tabc"
-			],
-			[
-				"station",
-				"station_id\tabc"
-			],
-			[
-				"autoa",
-				"auto_approve\tabc"
-			],
-			[
-				"sahrera",
-				"share_rate\tabc"
-			],
-			[
-				"defa",
-				"DEFAULT"
-			],
-			[
-				"view",
-				"ViewSettings"
-			],
-			[
-				"slide",
-				"shareRateSlider\tabc"
-			],
-			[
-				"collectin",
-				"collectInfoPanel\tabc"
-			],
-			[
-				"stationid",
-				"stationID\tabc"
-			],
-			[
-				"stations",
-				"stations\tabc"
-			],
-			[
-				"joins",
-				"joinStatus\t(DatabaseManager.cs)"
-			],
-			[
-				"join",
-				"join_status\t(services.php)"
-			],
-			[
-				"Ask",
-				"AskToJoinStation\t(DatabaseManager.cs)"
-			],
-			[
-				"joinstat",
-				"joinStationButton\tabc"
-			],
-			[
-				"allsta",
-				"allStationsPanel\tabc"
-			],
-			[
-				"panel",
-				"panelMyEDCs\tabc"
-			],
-			[
-				"allstat",
-				"allStationsButton\tabc"
-			],
-			[
-				"phone",
-				"phone_number\tabc"
-			],
-			[
-				"statiodi",
-				"stationID\tabc"
-			],
-			[
-				"useid",
-				"userID\tabc"
-			],
-			[
-				"_cur",
-				"_currentDisplayingEDC\tabc"
-			],
-			[
-				"_Sta",
-				"_stationManager\tabc"
-			],
-			[
-				"Plasm",
-				"PlasmoUtils\tabc"
-			],
-			[
-				"Getstat",
-				"GetStationByID\t(StationManager.cs)"
-			],
-			[
-				"tran",
-				"transform\t(StoreManager.cs)"
-			],
-			[
-				"Qu",
-				"Quaternion\t(StoreManager.cs)"
-			],
-			[
-				"ima",
-				"imagePrefab\tabc"
-			],
-			[
-				"Downl",
-				"DownloadTiles\tabc"
-			],
-			[
-				"OnREde",
-				"OnRedefinePasswordError\tabc"
-			],
-			[
-				"redefine",
-				"redefinePasswordConfirmationField\tabc"
-			],
-			[
-				"Field",
-				"redefinePasswordField"
-			],
-			[
-				"panelre",
-				"panelRedefinePassword\tabc"
-			],
-			[
-				"confirm",
-				"confirmIdentity\tabc"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "Assets/Scripts/Player.cs",
+			"file": "Assets/Scripts/Constants.cs",
 			"settings":
 			{
-				"buffer_size": 125,
+				"buffer_size": 2093,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Assets/Scripts/PlayerSkin.cs",
+			"file": "Assets/Scripts/Player.cs",
 			"settings":
 			{
-				"buffer_size": 129,
-				"encoding": "UTF-8",
+				"buffer_size": 1566,
 				"line_ending": "Windows"
 			}
 		}
@@ -633,9 +632,9 @@
 		"menu_visible": true,
 		"show_minimap": false,
 		"show_open_files": false,
-		"show_tabs": false,
-		"side_bar_visible": false,
-		"status_bar_visible": false
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
 	},
 	"expanded_folders":
 	[
@@ -644,6 +643,49 @@
 	],
 	"file_history":
 	[
+		"/D/Projects/TopDownStore/Assets/Scripts/NPCOpenStore.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIProductCell.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIPopupLayer.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/InventoryManager.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIInventory.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Wallet.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIInvetoryItem.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIPopup.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/CameraController.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Player.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/PlayerSkin.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIPopupShop.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIMenu.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/ResourcesManager.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Constants.cs",
+		"/D/Projects/TopDownStore/.gitignore",
+		"/D/Projects/TopDownStore/Assets/Scripts/SceneLoader.cs",
+		"/D/Projects/PlasmoShip/Assets/Scripts/SceneLoader.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIPopupConfirmation.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIHudFunds.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UI/UIPopupAlert.cs",
+		"/D/Projects/TopDownStore/README.md",
+		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIPopupCreateStation.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UIPopup.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UIPopupConfirmation.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UIPopupLayer.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UIPopupShop.cs",
+		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIScope.cs",
+		"/D/Projects/TopDownStore/Assets/Shaders/Sprite-Outline.shader",
+		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIPopup.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Editor/SliceRenamerEditor.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UIProductCell.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/SpriteOutline.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/UIManager.cs",
+		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIPopupLayer.cs",
+		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIGenericPopup.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/SliceRenamer.cs",
+		"/D/Projects/PlasmoShip/Assets/Scripts/PlasmoshipConstants.cs",
+		"/D/Projects/PlasmoShip/Assets/Scripts/DatabaseManager.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Editor/ResourcesManagerEditor.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Editor/SpriteSheetSliceRenamer.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Editor/SpriteSheetSliceRenamerEditor.cs",
+		"/D/Projects/TopDownStore/Assets/Scripts/Anim/SpriteSwapDemo.cs",
 		"/D/Projects/TopDownStore/Assets/Scripts/ResourcesLoader",
 		"/D/Projects/PlasmoShip/Assets/Scripts/DialogSequence.cs",
 		"/D/Projects/PlasmoHub/website-plasmohub/includes/metadata.php",
@@ -672,35 +714,28 @@
 		"/D/Projects/PlasmoShip/Assets/Scripts/PlasmoUtils.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/PlasmoAdmin.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/AdminPlasmo/UIEDCInfoAdminPlasmo.cs",
-		"/D/Projects/PlasmoShip/Assets/Scripts/PlasmoshipConstants.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/WalletManager.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/QRCodeManager.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/BaseManager.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/StationManager.cs",
 		"/D/Projects/PlasmoHub/website-plasmohub/plasmoship/services.php",
-		"/D/Projects/PlasmoShip/Assets/Scripts/DatabaseManager.cs",
 		"/C/Users/unbyte/AppData/Local/Temp/Rar$DRa15804.23202/product-page/images/blue.png",
 		"/C/Users/unbyte/AppData/Local/Temp/Rar$DRa15804.23202/product-page/images/black.png",
 		"/C/Users/unbyte/AppData/Local/Temp/Rar$DRa15804.23202/product-page/images/check-icn.svg",
 		"/C/Users/unbyte/AppData/Local/Temp/Rar$DRa15804.23202/product-page/images/red.png",
 		"/D/Projects/PlasmoHub/website-plasmohub/.htaccess.phpupgrader.initial",
 		"/D/Projects/PlasmoHub/website-plasmohub/landing-page.html",
-		"/D/Projects/PlasmoShip/Assets/Scripts/SceneLoader.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIEDCInfoScreen.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIShowPassButton.cs",
-		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIPopupCreateStation.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIStationCell.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/Main.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/Login.cs",
-		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIPopupLayer.cs",
 		"/D/Projects/PlasmoShip/Assets/Honeti/I18N/Scripts/I18NText.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/Tests/ServicesTest.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIWalletHistoryCell.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/TouchLocker.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIStationAdmin.cs",
-		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIGenericPopup.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIButtonProfile.cs",
-		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UIScope.cs",
 		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UICellStationUSer.cs",
 		"/D/Projects/PlasmoShip/Assets/Gamestrap/UI/Effects/GamestrapEffect.cs",
 		"/D/Projects/PlasmoShip/Assets/Gamestrap/UI/Effects/GradientEffect.cs",
@@ -735,53 +770,18 @@
 		"/C/Users/unbyte/Desktop/lista-caio-gi",
 		"/D/Projects/PlasmoShip/Assets/Stellar/Examples/Scripts/Examples/SendXLM.cs",
 		"/D/Projects/PlasmoShip/Assets/Stellar/Examples/Scripts/Examples/Example.cs",
-		"/D/Projects/PlasmoShip/Assets/Stellar/Examples/Scripts/Menu/ExampleUI.cs",
-		"/D/Projects/trading-bot/test.py",
-		"/D/Projects/trading-bot/markets/mercadobitcoin/mercado-bitcoin-api.py",
-		"/D/Projects/trading-bot/markets/mercadobitcoin/tapimethods.py",
-		"/D/Projects/trading-bot/candle-chart.py",
-		"/D/Projects/trading-bot/set-interval.py",
-		"/D/Projects/trading-bot/trading-bot.py",
-		"/D/Projects/stellar/Assets/Stellar/Examples/Scripts/Examples/CreateAccount.cs",
-		"/D/Projects/stellar/Assets/Stellar/Examples/Scripts/Core/UStellarManager.cs",
-		"/D/Projects/stellar/Assets/Stellar/Examples/Scripts/Core/UStellarUtils.cs",
-		"/D/Projects/stellar/Assets/Stellar/Examples/Scripts/Examples/SendXLM.cs",
-		"/D/Projects/stellar/",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/index.php",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/templates/timeline/index.tpl",
-		"/D/_Missons/GoldenMission01/attachments/_tools/spider.py",
-		"/C/Users/unbyte/Desktop/modulobrpay/modulobrpay/brpay.php",
-		"/C/Users/unbyte/Desktop/modulobrpay/modulobrpay/includes/modules/payment/brpay.php",
-		"/D/Projects/PlasmoShip/Assets/Scripts/DebugTools.cs",
-		"/D/Projects/UnitySlippyMap-master/UnitySlippyMap-master/Assets/TestScripts/TestMap.cs",
-		"/D/Projects/UnitySlippyMap-master/UnitySlippyMap-master/Assets/UnitySlippyMap/Layers/MBTilesLayerBehaviour.cs",
-		"/D/Projects/ml-agents-main/ml-agents-main/RSTTS/Assets/TwitchChatConnect/Scripts/TwitchChatConnect/Client/TwitchChatClient.cs",
-		"/D/Projects/tamagotchi2/BeatDetection/Assets/Beat Detection/Event - Example Mic Input/EventMicExample.cs",
-		"/D/Projects/tamagotchi2/BeatDetection/Assets/Beat Detection/No Event - Example Mic Input/BeatDetectionExampleMic.cs",
-		"/D/Projects/tamagotchi2/BeatDetection/Assets/Beat Detection/No Event - Example/BeatDetectionExample.cs",
-		"/D/Projects/tamagotchi2/BeatDetection/Assets/Beat Detection/Event - Example/EventExample.cs",
-		"/D/Projects/UnitySlippyMap-master/UnitySlippyMap-master/Assets/UnitySlippyMap/Helpers/UnityThreading/UnityThreadHelper.cs",
-		"/D/Projects/UnitySlippyMap-master/UnitySlippyMap-master/Assets/UnitySlippyMap/Helpers/TextureBogusExtension.cs",
-		"/D/Projects/UnitySlippyMap-master/UnitySlippyMap-master/Assets/UnitySlippyMap/Helpers/SQLite/SqliteDatabase.cs",
-		"/D/Projects/UnitySlippyMap-master/UnitySlippyMap-master/Assets/UnitySlippyMap/Helpers/SQLite/DataTable.cs",
-		"/D/Projects/Blue_Creature_Thing_Game-master/Blue_Creature_Thing_Game-master/Assets/Scripts/MainMenuButtonsScript.cs",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/include/functions.inc.php",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/.htaccess",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/include/functions_config.inc.php",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/serendipity_config.inc.php",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/include/admin/category.inc.php",
-		"/D/Projects/PlasmoHub/website-plasmohub/blog/serendipity.css.php",
-		"/D/Projects/PlasmoShip/Assets/Scripts/UI/UICollectInfo.cs"
+		"/D/Projects/PlasmoShip/Assets/Stellar/Examples/Scripts/Menu/ExampleUI.cs"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
 		"height": 647.0,
 		"where_history":
 		[
+			"D:\\Projects\\TopDownStore",
 			"D:\\Projects\\PlasmoHub\\website-plasmohub",
 			"D:\\Projects\\PlasmoShip\\Assets\\Scripts",
 			"",
@@ -812,134 +812,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"foundation",
-			"large-4 medium-4 cell",
-			"2.5",
-			"5%",
-			"5",
-			"content__container__list",
-			"content__container__text",
-			"content__container__list",
-			"content__container__text",
-			"hero-section",
-			"img",
-			"img-fluid",
-			"img-",
-			"img-fluid",
-			"bandeija0",
-			"bandeija01",
-			"bandeija0",
-			"dog-0",
-			"joias",
-			"min",
-			"dog-",
-			"produ",
-			"pdp-product-image",
-			"main-prod",
-			"nunito",
-			"nunito]",
-			"nunito",
-			"20px",
-			"content__container:after, .content__container:before {",
-			"promo-hero",
-			"content__container",
-			"@Media",
-			"<span>",
-			"an>",
-			"<span></span>",
-			"...",
-			"custom",
-			"fontwhite",
-			"card-divider",
-			"100px",
-			"80",
-			"80px",
-			"45",
-			"content__container",
-			"content__container__list",
-			"35px",
-			"content__container__list",
-			"fa",
-			"double",
-			"custom",
-			"bgc",
-			"promo-hero-content",
-			"-3",
-			".png",
-			"-min",
-			".png",
-			"));\n",
-			"ttps://placehold.it/2000x900 ",
-			"https://js.hs-analytics.net/analytics/1636413900000/20567868.js",
-			"XPM9X74FRN",
-			"https://www.googletagmanager.com/gtag/js?id=G-XPM9X74FRN",
-			"parentNode",
+			"slot",
+			"OnBuy",
+			"onBuy",
+			"EquipItem",
+			"Slots",
+			"public",
+			"playerItems[slot][itemIndex]",
+			"Debug",
+			"inventoryItemPrefab",
+			"0",
+			"GetEquipedItem",
+			"inde",
+			"return",
+			"if(table[\"purshased\"] != null)",
+			"LoadPlayerSkin",
+			"Slots.skin",
+			"Constants",
+			"ownedHairs",
+			"ownedSkins",
+			"_shoesIndex",
+			"_pantsIndex",
+			"_shirtIndex",
+			"_eyesIndex",
+			"_hairIndex",
+			"]",
+			"_skinIndex",
+			"buttonSkin",
+			"buttonShirt",
+			"buttonSkin",
+			"productSelection",
+			"product",
+			"UIProductCell",
+			"_products",
+			"productGrid",
+			"Products",
+			"_iconRectTransform",
+			"Reciclando",
+			"popup.",
+			"popup",
+			"UIPopupConfirmation",
+			"-bot",
+			"-top",
+			".ToString()",
+			"Slots.",
+			"skin",
+			"shirt",
+			",.",
+			",",
+			"Constants",
+			"Constants.skin",
+			"skin",
+			"back_hair",
+			"SetSpriteSheet",
+			"ChangeSkin",
+			"0.1",
+			"size",
+			"false",
+			"table",
+			"tryButton",
+			"_popupConfirmation",
+			"list",
+			"List",
+			"list",
+			"List",
+			"list",
+			"List",
+			"list",
+			"List",
+			"list",
+			"List",
+			"list",
+			"_skinIndex",
+			"button",
+			"LoadPlayerSkin",
+			"private",
+			"popup.",
+			"Popup",
+			"popup",
+			"confirmButton",
+			"DisablePopups();",
+			"UIPopupConfirmation",
+			"HandlePopups",
+			"_currentSpriteSheets",
+			"_skinIndex",
+			"Constants.shirt",
+			"front_hair",
+			"hair",
+			"eyes",
+			"shirt",
+			"boundX",
+			".x",
+			"deltaX",
+			"deltax",
+			"deltaX",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"x",
+			"X",
+			"skin",
+			"1",
+			"stringsProperty",
+			"_target.texture2D",
+			"_current",
+			"stringExample",
+			"_textureImporter",
+			"path",
+			"textureImporter",
+			"TextureImporter",
+			"textureImporter",
+			"SliceRenamer",
+			"ResourcesManagerEditor",
+			"SpriteSheetSliceRenamerEditor",
+			"_target.",
+			"_current",
+			"Sprite[] skinSheet ",
+			"hairSheet",
+			"skin.",
+			"skin",
+			"Sheet",
+			"skin.sprite = skinSheet[0];",
 			"2",
-			"1",
-			"produto-sp-02",
-			"produto-sp-01.png",
-			"1",
-			"produto-cinzeiro-02.png",
-			"produto-cinzeiro-01.png",
-			"https://cdn.materialdistrict.com/wp-content/uploads/2016/04/precious-plastic-build-your-own-plastic-recycling-factory-05.jpg",
-			"content__container",
-			"content__container__text",
-			"https://placehold.it/50x50",
-			"https://placehold.it/350x350?text=Image+1",
-			"https://cdn.materialdistrict.com/wp-content/uploads/2016/04/precious-plastic-build-your-own-plastic-recycling-factory-05.jpg",
-			"<div class=\"product-color\">\n                    <span>Color</span>\n             \n                    <div class=\"color-choose\">\n                      <div>\n                        <input product-number=\"4\" data-image=\"red\" type=\"radio\" id=\"red\" name=\"color\" value=\"red\" checked>\n                        <label for=\"red\"><span></span></label>\n                      </div>\n                      <div>\n                        <input product-number=\"4\" data-image=\"blue\" type=\"radio\" id=\"blue\" name=\"color\" value=\"blue\">\n                        <label for=\"blue\"><span></span></label>\n                      </div>\n                      <div>\n                        <input product-number=\"4\" data-image=\"black\" type=\"radio\" id=\"black\" name=\"color\" value=\"black\">\n                        <label for=\"black\"><span></span></label>\n                      </div>\n                    </div>\n             \n                  </div>",
-			"bgcy",
-			"select",
-			"bg",
-			"Produto 0",
-			"section",
-			"align=\"middle\"",
-			"center",
-			"class=\"fa ",
-			"aria-hidden=\"true\"",
-			"<div class=\"columns\">",
-			"cell",
-			"12",
-			"span",
-			"<h5>I need a new home!</h5>\n                <p>Abby loves long naps in the sun, the laser game, and low-fat milk. She is also a great bug exterminator!</p>",
-			"https://placeimg.com/640/480/animals",
-			"https://placehold.it/180x180",
-			"<script",
-			"content__container__text",
-			"result.Text.ToString()",
-			"image",
-			"generateQR",
-			"yield return new WaitForSeconds(0.1f);\n        NotificationCenter.DefaultCenter.PostNotificatio",
-			"GenericPopup",
-			"\"ShowHud\"",
-			"PostNotification(\"Show",
-			"PostNotification(\"SHow",
-			"CreateCollectStationRequest",
-			"inviteUserButton",
-			"stationConfig",
-			"GetMyStations",
-			"_stationsUserBelongs",
-			"CreateStationCells",
-			"GetAllStations",
-			"OnGetAllStationsSuccess",
-			"PurgeStationCells",
-			"OnGetAllStationsSuccess",
-			"GetAllStations",
-			"alre",
-			"RemoveUserFromEDC",
-			"OnJoinStationSuccess",
-			"optionsPanel",
-			"stationStatus",
-			"GetUserAddressList",
-			"Texture2D",
-			"texture",
-			"Refresh",
-			"Refres",
-			"SaveSettings",
-			"optionsPanel",
-			"InitButtons",
-			"optionsPanel.SetActive",
-			"SetApprovalStage"
+			"Index",
+			"this."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -959,24 +959,54 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Assets/Scripts/Player.cs",
+					"file": "Assets/Scripts/Constants.cs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 125,
+						"buffer_size": 2093,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								122,
-								122
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/Player.cs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -989,41 +1019,13 @@
 					},
 					"stack_index": 1,
 					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Assets/Scripts/PlayerSkin.cs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								129,
-								129
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C#/C#.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -1068,7 +1070,7 @@
 	"project": "sublime-project.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1077,6 +1079,86 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"wall",
+				"Scripts\\Wallet.cs"
+			],
+			[
+				"inventor",
+				"Scripts\\InventoryManager.cs"
+			],
+			[
+				"uipo",
+				"Scripts\\UI\\UIPopup.cs"
+			],
+			[
+				"uiprod",
+				"Scripts\\UI\\UIProductCell.cs"
+			],
+			[
+				"uii",
+				"Scripts\\UI\\UIInvetoryItem.cs"
+			],
+			[
+				"uiprodu",
+				"Scripts\\UI\\UIProductCell.cs"
+			],
+			[
+				"uipopupsh",
+				"Scripts\\UI\\UIPopupShop.cs"
+			],
+			[
+				"uipops",
+				"Scripts\\UI\\UIPopupShop.cs"
+			],
+			[
+				"uipop",
+				"Scripts\\UI\\UIPopupLayer.cs"
+			],
+			[
+				"uipopco",
+				"Scripts\\UI\\UIPopupConfirmation.cs"
+			],
+			[
+				"uipopc",
+				"Scripts\\UI\\UIPopupConfirmation.cs"
+			],
+			[
+				"uipopsh",
+				"Scripts\\UI\\UIPopupShop.cs"
+			],
+			[
+				"uipopcon",
+				"Scripts\\UI\\UIPopupConfirmation.cs"
+			],
+			[
+				"player",
+				"Scripts\\Player.cs"
+			],
+			[
+				"camera",
+				"Scripts\\CameraController.cs"
+			],
+			[
+				"resourcesma",
+				"Scripts\\ResourcesManager.cs"
+			],
+			[
+				"playersk",
+				"Scripts\\PlayerSkin.cs"
+			],
+			[
+				"npc.cs",
+				"Scripts\\NPCOpenStore.cs"
+			],
+			[
+				"UIpop",
+				"Scripts\\UIPopup.cs"
+			],
+			[
+				"consta",
+				"Scripts\\Constants.cs"
+			],
 			[
 				"Dialo",
 				"Assets\\Scripts\\DialogSequence.cs"
@@ -1508,86 +1590,6 @@
 			[
 				"uiscre",
 				"Assets\\Scripts\\UI\\UIScreenCommands.cs"
-			],
-			[
-				"askbo",
-				"Assets\\Scripts\\AskBoxManager.cs"
-			],
-			[
-				"service",
-				"website-plasmohub\\plasmoship\\services.php"
-			],
-			[
-				"mapser",
-				"website-plasmohub\\plasmoship\\map-services.php"
-			],
-			[
-				"Mapmana",
-				"Assets\\Scripts\\MapManager.cs"
-			],
-			[
-				"datbase",
-				"Assets\\Scripts\\DatabaseManager.cs"
-			],
-			[
-				"plasmocon",
-				"Assets\\Scripts\\PlasmoshipConstants.cs"
-			],
-			[
-				"mapma",
-				"Assets\\Scripts\\MapManager.cs"
-			],
-			[
-				"wallema",
-				"Assets\\Scripts\\WalletManager.cs"
-			],
-			[
-				"Storema",
-				"Assets\\Scripts\\StoreManager.cs"
-			],
-			[
-				"stationam",
-				"Assets\\Scripts\\StationManager.cs"
-			],
-			[
-				"datab",
-				"Assets\\Scripts\\DatabaseManager.cs"
-			],
-			[
-				"plasmoshco",
-				"Assets\\Scripts\\PlasmoshipConstants.cs"
-			],
-			[
-				"touch",
-				"Assets\\Scripts\\TouchLocker.cs"
-			],
-			[
-				"imagecro",
-				"Assets\\Plugins\\ImageCropper\\Scripts\\ImageCropper.cs"
-			],
-			[
-				"DemoActionPanelBase",
-				"Assets\\Plugins\\VoxelBusters\\NativePlugins\\Scripts\\Runtime\\DemoKit\\DemoActionPanelBase{TAction,TActionType}.cs"
-			],
-			[
-				"scneeloa",
-				"Assets\\Scripts\\SceneLoader.cs"
-			],
-			[
-				"touchlo",
-				"Assets\\Scripts\\TouchLocker.cs"
-			],
-			[
-				"touchl",
-				"Assets\\Scripts\\TouchLocker.cs"
-			],
-			[
-				"servic",
-				"website-plasmohub\\plasmoship\\services.php"
-			],
-			[
-				"profie",
-				"Assets\\Scripts\\ProfileManager.cs"
 			]
 		],
 		"width": 0.0
@@ -1622,7 +1624,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 297.0,
+	"side_bar_width": 200.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

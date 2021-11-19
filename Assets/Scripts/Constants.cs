@@ -12,7 +12,7 @@ public enum Slots{
 	pants
 }
 
-public class Constants : MonoBehaviour
+public class Constants
 {
 	public const string rootFolder = "Characters/";
 	public const string maleFolder = "Male/";
