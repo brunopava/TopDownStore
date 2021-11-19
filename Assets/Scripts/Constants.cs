@@ -14,6 +14,16 @@ public enum Slots{
 
 public class Constants
 {
+    public static Dictionary<string, int> allAssets = new Dictionary<string, int>()
+    {
+        {"skin", 5},
+        {"front_hair", 30},
+        {"eyes", 4},
+        {"shirt", 15},
+        {"shoes", 12},
+        {"pants", 12}
+    };
+
 	public const string rootFolder = "Characters/";
 	public const string maleFolder = "Male/";
 	public const string femaleFolder = "Female/";

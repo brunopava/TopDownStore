@@ -16,7 +16,7 @@ public class UIPopupShop : UIPopup
     {
     	for(int i = 0; i < maxProducts; i ++)
     	{
-    		Sprite[] sprites = ResourcesManager.Instance.LoadSkinIndex(productSelection, i+1);
+    		Sprite[] sprites = ResourcesManager.Instance.GetSpritesheet(productSelection, i+1);
     		Dictionary<string, Sprite> spritesheet = sprites.ToDictionary(x => x.name, x => x);
 
     		GameObject cell = GameObject.Instantiate(productCellPrefab, Vector3.zero, Quaternion.identity) as GameObject;

@@ -126,7 +126,7 @@ public class UIInventory : UIPopup
 
     	for(int i = 0; i < items.Count; i ++)
     	{
-    		Sprite[] sprites = ResourcesManager.Instance.LoadSkinIndex(itemType, items[i]);
+    		Sprite[] sprites = ResourcesManager.Instance.GetSpritesheet(itemType, items[i]);
     		Dictionary<string, Sprite> spritesheet = sprites.ToDictionary(x => x.name, x => x);
 
     		GameObject cell = GameObject.Instantiate(inventoryItemPrefab, Vector3.zero, Quaternion.identity) as GameObject;

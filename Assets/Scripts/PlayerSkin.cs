@@ -2,6 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
+/**
+
+
+TODO: 
+    - FEMALE SPRITES
+    - ANIMATION IDDLE
+**/
 
 public class PlayerSkin : MonoBehaviour
 {
@@ -236,22 +243,22 @@ public class PlayerSkin : MonoBehaviour
     {
     	Sprite[] sprites;
 
-        sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.skin.ToString(), InventoryManager.Instance.equipedSkinIndex);
+        sprites = ResourcesManager.Instance.GetSpritesheet(Slots.skin.ToString(), InventoryManager.Instance.equipedSkinIndex);
     	skinSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.front_hair.ToString(), InventoryManager.Instance.equipedHairIndex);
+    	sprites = ResourcesManager.Instance.GetSpritesheet(Slots.front_hair.ToString(), InventoryManager.Instance.equipedHairIndex);
     	hairSpritesheet = sprites.ToDictionary(x => x.name, x => x);
         
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.eyes.ToString(), InventoryManager.Instance.equipedEyesIndex);
+    	sprites = ResourcesManager.Instance.GetSpritesheet(Slots.eyes.ToString(), InventoryManager.Instance.equipedEyesIndex);
     	eyesSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.shirt.ToString(), InventoryManager.Instance.equipedShirtIndex);
+    	sprites = ResourcesManager.Instance.GetSpritesheet(Slots.shirt.ToString(), InventoryManager.Instance.equipedShirtIndex);
     	shirtSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.pants.ToString(), InventoryManager.Instance.equipedPantsIndex);
+    	sprites = ResourcesManager.Instance.GetSpritesheet(Slots.pants.ToString(), InventoryManager.Instance.equipedPantsIndex);
     	pantsSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
-    	sprites = ResourcesManager.Instance.LoadSkinIndex(Slots.shoes.ToString(), InventoryManager.Instance.equipedShoesIndex);
+    	sprites = ResourcesManager.Instance.GetSpritesheet(Slots.shoes.ToString(), InventoryManager.Instance.equipedShoesIndex);
     	shoesSpritesheet = sprites.ToDictionary(x => x.name, x => x);
 
     }
