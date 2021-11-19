@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deadTrigger
+  - onlyTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2188835573
+    locked: 0
+  - name: Walls
+    uniqueID: 514346527
+    locked: 0
+  - name: NPC
+    uniqueID: 4023338105
+    locked: 0
+  - name: Furniture
+    uniqueID: 2097664465
+    locked: 0
+  - name: NPC2
+    uniqueID: 541573801
+    locked: 0
+  - name: Furniture2
+    uniqueID: 993645051
+    locked: 0
+  - name: Player
+    uniqueID: 285941797
+    locked: 0
+  - name: Furniture3
+    uniqueID: 472003227
+    locked: 0
+  - name: WallUpper
+    uniqueID: 4051573909
+    locked: 0
+  - name: Ceiling
+    uniqueID: 2965136479
+    locked: 0
+  - name: Collision
+    uniqueID: 2293678037
+    locked: 0
+  - name: NPC3
+    uniqueID: 2653396919
+    locked: 0

@@ -1,0 +1,3297 @@
+fileFormatVersion: 2
+guid: 8d2197e3837e14f078dfc38cb40b43a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6883559054016072231
+    second: idle_bot
+  - first:
+      213: 3202601036530677623
+    second: Male_Shirt_01_1
+  - first:
+      213: -8076031941357038283
+    second: Male_Shirt_01_2
+  - first:
+      213: -6136030242645765066
+    second: Male_Shirt_01_3
+  - first:
+      213: 1850492867976816983
+    second: Male_Shirt_01_4
+  - first:
+      213: 2943514641606472104
+    second: Male_Shirt_01_5
+  - first:
+      213: -796056903938973238
+    second: Male_Shirt_01_6
+  - first:
+      213: -5434629080915091292
+    second: Male_Shirt_01_7
+  - first:
+      213: -5801278913667666906
+    second: Male_Shirt_01_8
+  - first:
+      213: -2669656008174376418
+    second: idle_bot_left
+  - first:
+      213: 4545027061497864407
+    second: Male_Shirt_01_10
+  - first:
+      213: -3506390481944540455
+    second: Male_Shirt_01_11
+  - first:
+      213: 4268922364559762529
+    second: Male_Shirt_01_12
+  - first:
+      213: -3930234446991509040
+    second: Male_Shirt_01_13
+  - first:
+      213: 2383541908628468554
+    second: Male_Shirt_01_14
+  - first:
+      213: 5108809384458902087
+    second: Male_Shirt_01_15
+  - first:
+      213: 5655933722157345717
+    second: Male_Shirt_01_16
+  - first:
+      213: 6070118522450596594
+    second: Male_Shirt_01_17
+  - first:
+      213: -4593184525366521577
+    second: idle_left
+  - first:
+      213: -3482841500492150590
+    second: Male_Shirt_01_19
+  - first:
+      213: 423787863989089235
+    second: Male_Shirt_01_20
+  - first:
+      213: 8832944975842638838
+    second: Male_Shirt_01_21
+  - first:
+      213: 1116941770639738782
+    second: Male_Shirt_01_22
+  - first:
+      213: -657143248502622836
+    second: Male_Shirt_01_23
+  - first:
+      213: -159554954265401143
+    second: Male_Shirt_01_24
+  - first:
+      213: 7029271465592770591
+    second: Male_Shirt_01_25
+  - first:
+      213: 9132687956428963072
+    second: Male_Shirt_01_26
+  - first:
+      213: 7358723601661555824
+    second: idle_top_left
+  - first:
+      213: -5239202669858966718
+    second: Male_Shirt_01_28
+  - first:
+      213: -7817096149072932754
+    second: Male_Shirt_01_29
+  - first:
+      213: 4445001577625259183
+    second: Male_Shirt_01_30
+  - first:
+      213: 1974112172667134917
+    second: Male_Shirt_01_31
+  - first:
+      213: -419277265107088114
+    second: Male_Shirt_01_32
+  - first:
+      213: -9061425267581877588
+    second: Male_Shirt_01_33
+  - first:
+      213: 5064380058834320867
+    second: Male_Shirt_01_34
+  - first:
+      213: -1980057684485469293
+    second: Male_Shirt_01_35
+  - first:
+      213: -7950561537114554262
+    second: idle_top
+  - first:
+      213: 4159042564496110269
+    second: Male_Shirt_01_37
+  - first:
+      213: -4631323991513479929
+    second: Male_Shirt_01_38
+  - first:
+      213: -6841434683442228419
+    second: Male_Shirt_01_39
+  - first:
+      213: 5998690962190822782
+    second: Male_Shirt_01_40
+  - first:
+      213: 5765570802207417961
+    second: Male_Shirt_01_41
+  - first:
+      213: 8311441329510079986
+    second: Male_Shirt_01_42
+  - first:
+      213: -5447433736636387970
+    second: Male_Shirt_01_43
+  - first:
+      213: 3632733764859095517
+    second: Male_Shirt_01_44
+  - first:
+      213: 3900842435705366482
+    second: idle_top_right
+  - first:
+      213: -5547891277103594557
+    second: Male_Shirt_01_46
+  - first:
+      213: 3921582011285706606
+    second: Male_Shirt_01_47
+  - first:
+      213: 3163603435897679108
+    second: Male_Shirt_01_48
+  - first:
+      213: -7909048198128275305
+    second: Male_Shirt_01_49
+  - first:
+      213: -3304953347104811039
+    second: Male_Shirt_01_50
+  - first:
+      213: 2901428852994732583
+    second: Male_Shirt_01_51
+  - first:
+      213: 8128877447338006461
+    second: Male_Shirt_01_52
+  - first:
+      213: -4435641063673946122
+    second: Male_Shirt_01_53
+  - first:
+      213: -1795073171629869712
+    second: idle_right
+  - first:
+      213: -6204451389839837146
+    second: Male_Shirt_01_55
+  - first:
+      213: 8064427268157278102
+    second: Male_Shirt_01_56
+  - first:
+      213: -5185633335791098537
+    second: Male_Shirt_01_57
+  - first:
+      213: -9019692112919937169
+    second: Male_Shirt_01_58
+  - first:
+      213: 7179729184284004861
+    second: Male_Shirt_01_59
+  - first:
+      213: -4999644966271102562
+    second: Male_Shirt_01_60
+  - first:
+      213: 739438846000220478
+    second: Male_Shirt_01_61
+  - first:
+      213: 7977129153509882799
+    second: Male_Shirt_01_62
+  - first:
+      213: 7513043066336629920
+    second: idle_bot_right
+  - first:
+      213: -6699000666585922039
+    second: Male_Shirt_01_64
+  - first:
+      213: -4218744146985942677
+    second: Male_Shirt_01_65
+  - first:
+      213: 4097028134708389994
+    second: Male_Shirt_01_66
+  - first:
+      213: 411610683352774168
+    second: Male_Shirt_01_67
+  - first:
+      213: -2978612731480101638
+    second: Male_Shirt_01_68
+  - first:
+      213: -8486940299262953238
+    second: Male_Shirt_01_69
+  - first:
+      213: -7898664189407526787
+    second: Male_Shirt_01_70
+  - first:
+      213: -6723918255651352184
+    second: Male_Shirt_01_71
+  - first:
+      213: -2043954316018649123
+    second: Male_Shirt_01_72
+  - first:
+      213: -3349744476931522942
+    second: Male_Shirt_01_73
+  - first:
+      213: -214710641140438657
+    second: Male_Shirt_01_74
+  - first:
+      213: 5606441376384046298
+    second: Male_Shirt_01_75
+  - first:
+      213: 1973524417453111828
+    second: Male_Shirt_01_76
+  - first:
+      213: 6580472911068845080
+    second: Male_Shirt_01_77
+  - first:
+      213: -115863953769602563
+    second: Male_Shirt_01_78
+  - first:
+      213: 2078284968014496906
+    second: Male_Shirt_01_79
+  - first:
+      213: -8178056107841035390
+    second: Male_Shirt_01_80
+  - first:
+      213: -3099078527021679071
+    second: Male_Shirt_01_81
+  - first:
+      213: -6192384848911085377
+    second: Male_Shirt_01_82
+  - first:
+      213: 7499362628783244020
+    second: Male_Shirt_01_83
+  - first:
+      213: 5435450787336619293
+    second: Male_Shirt_01_84
+  - first:
+      213: -1707536620223660749
+    second: Male_Shirt_01_85
+  - first:
+      213: 7324522414182851015
+    second: Male_Shirt_01_86
+  - first:
+      213: 6446701032308950075
+    second: Male_Shirt_01_87
+  - first:
+      213: 6192717536606716424
+    second: Male_Shirt_01_88
+  - first:
+      213: -8472850288288982416
+    second: Male_Shirt_01_89
+  - first:
+      213: -2086363196168604480
+    second: Male_Shirt_01_90
+  - first:
+      213: 6592685161688549112
+    second: Male_Shirt_01_91
+  - first:
+      213: -94062546219728954
+    second: Male_Shirt_01_92
+  - first:
+      213: -4010041446297325825
+    second: Male_Shirt_01_93
+  - first:
+      213: -8555475824479042183
+    second: Male_Shirt_01_94
+  - first:
+      213: 7097177892967004948
+    second: Male_Shirt_01_95
+  - first:
+      213: 7823232869379927163
+    second: Male_Shirt_01_96
+  - first:
+      213: -7237510880341827839
+    second: Male_Shirt_01_97
+  - first:
+      213: 7149763236151224129
+    second: Male_Shirt_01_98
+  - first:
+      213: -667305923729928165
+    second: Male_Shirt_01_99
+  - first:
+      213: -3723595241558099696
+    second: Male_Shirt_01_100
+  - first:
+      213: 4578365359092028412
+    second: Male_Shirt_01_101
+  - first:
+      213: -3809580251899540253
+    second: Male_Shirt_01_102
+  - first:
+      213: 3939249738858135389
+    second: Male_Shirt_01_103
+  - first:
+      213: 8370274124727582228
+    second: Male_Shirt_01_104
+  - first:
+      213: 5473923033383327976
+    second: Male_Shirt_01_105
+  - first:
+      213: -6945847160670569578
+    second: Male_Shirt_01_106
+  - first:
+      213: -9116055723615124458
+    second: Male_Shirt_01_107
+  - first:
+      213: -4268269549872229609
+    second: Male_Shirt_01_108
+  - first:
+      213: 6749946407050182117
+    second: Male_Shirt_01_109
+  - first:
+      213: 7601594475803756026
+    second: Male_Shirt_01_110
+  - first:
+      213: 2993845321090372830
+    second: Male_Shirt_01_111
+  - first:
+      213: 7642691890754215426
+    second: Male_Shirt_01_112
+  - first:
+      213: -1296480247244615815
+    second: Male_Shirt_01_113
+  - first:
+      213: -2210713355518194826
+    second: Male_Shirt_01_114
+  - first:
+      213: 3749657993822270781
+    second: Male_Shirt_01_115
+  - first:
+      213: -125139482679383490
+    second: Male_Shirt_01_116
+  - first:
+      213: -4097573583536464284
+    second: Male_Shirt_01_117
+  - first:
+      213: 5644981146668497157
+    second: Male_Shirt_01_118
+  - first:
+      213: -1447398160235572948
+    second: Male_Shirt_01_119
+  - first:
+      213: 1544044716314715084
+    second: Male_Shirt_01_120
+  - first:
+      213: -5597369071386722401
+    second: Male_Shirt_01_121
+  - first:
+      213: 6377254543816360896
+    second: Male_Shirt_01_122
+  - first:
+      213: -3439853804874215643
+    second: Male_Shirt_01_123
+  - first:
+      213: 384684891606384342
+    second: Male_Shirt_01_124
+  - first:
+      213: 4596407876687600966
+    second: Male_Shirt_01_125
+  - first:
+      213: -3510317584524591708
+    second: Male_Shirt_01_126
+  - first:
+      213: -1092641787356722026
+    second: Male_Shirt_01_127
+  - first:
+      213: -6156486196147686769
+    second: Male_Shirt_01_128
+  - first:
+      213: -1427107188596344643
+    second: Male_Shirt_01_129
+  - first:
+      213: -4240130808556883780
+    second: Male_Shirt_01_130
+  - first:
+      213: -5818154690551340591
+    second: Male_Shirt_01_131
+  - first:
+      213: -2819451792031144086
+    second: Male_Shirt_01_132
+  - first:
+      213: -4272420541672444128
+    second: Male_Shirt_01_133
+  - first:
+      213: -2965594169423045309
+    second: Male_Shirt_01_134
+  - first:
+      213: 4336561836084722300
+    second: Male_Shirt_01_135
+  - first:
+      213: 6791344000959191631
+    second: Male_Shirt_01_136
+  - first:
+      213: -5962512900998812649
+    second: Male_Shirt_01_137
+  - first:
+      213: 3302158222392767525
+    second: Male_Shirt_01_138
+  - first:
+      213: -4429813401406415740
+    second: Male_Shirt_01_139
+  - first:
+      213: -2697615633691213718
+    second: Male_Shirt_01_140
+  - first:
+      213: -8266808551410474607
+    second: Male_Shirt_01_141
+  - first:
+      213: -6713840260920613488
+    second: Male_Shirt_01_142
+  - first:
+      213: -6623695043397644566
+    second: Male_Shirt_01_143
+  - first:
+      213: 8448607534739242351
+    second: Male_Shirt_01_144
+  - first:
+      213: -2709389227938052539
+    second: Male_Shirt_01_145
+  - first:
+      213: 6928321123398855410
+    second: Male_Shirt_01_146
+  - first:
+      213: 5812521320483144628
+    second: Male_Shirt_01_147
+  - first:
+      213: 4458593126680973093
+    second: Male_Shirt_01_148
+  - first:
+      213: -8673795990580423927
+    second: Male_Shirt_01_149
+  - first:
+      213: 2301226015603684067
+    second: Male_Shirt_01_150
+  - first:
+      213: -2078623336362298035
+    second: Male_Shirt_01_151
+  - first:
+      213: 1161665831027949852
+    second: Male_Shirt_01_152
+  - first:
+      213: 181893975992730170
+    second: Male_Shirt_01_153
+  - first:
+      213: 2326734813138244950
+    second: Male_Shirt_01_154
+  - first:
+      213: 7455569419976364813
+    second: Male_Shirt_01_155
+  - first:
+      213: 5482019779319390374
+    second: Male_Shirt_01_156
+  - first:
+      213: 8148184655345586213
+    second: Male_Shirt_01_157
+  - first:
+      213: 4464874760118000703
+    second: Male_Shirt_01_158
+  - first:
+      213: -5707537595731942553
+    second: Male_Shirt_01_159
+  - first:
+      213: 1354414833243931800
+    second: Male_Shirt_01_160
+  - first:
+      213: 7144151738506385287
+    second: Male_Shirt_01_161
+  - first:
+      213: 1413627168149628511
+    second: Male_Shirt_01_162
+  - first:
+      213: -6354976381161786491
+    second: Male_Shirt_01_163
+  - first:
+      213: 3326533724945026283
+    second: Male_Shirt_01_164
+  - first:
+      213: -8792299583378346990
+    second: Male_Shirt_01_165
+  - first:
+      213: 8982767864602043710
+    second: Male_Shirt_01_166
+  - first:
+      213: 8269863592239532392
+    second: Male_Shirt_01_167
+  - first:
+      213: 9200400742362254351
+    second: Male_Shirt_01_168
+  - first:
+      213: 4191452173282519110
+    second: Male_Shirt_01_169
+  - first:
+      213: 5296235568530919202
+    second: Male_Shirt_01_170
+  - first:
+      213: -43387012580861052
+    second: Male_Shirt_01_171
+  - first:
+      213: -429817435328805242
+    second: Male_Shirt_01_172
+  - first:
+      213: 2842256906270713594
+    second: Male_Shirt_01_173
+  - first:
+      213: -4543052653432231844
+    second: Male_Shirt_01_174
+  - first:
+      213: -8078254810055030708
+    second: Male_Shirt_01_175
+  - first:
+      213: 3462134355180426111
+    second: Male_Shirt_01_176
+  - first:
+      213: 4464456726732612007
+    second: Male_Shirt_01_177
+  - first:
+      213: -4468462098529457628
+    second: Male_Shirt_01_178
+  - first:
+      213: -6036106725900975466
+    second: Male_Shirt_01_179
+  - first:
+      213: 8101607501827112578
+    second: Male_Shirt_01_180
+  - first:
+      213: -145417762496727210
+    second: Male_Shirt_01_181
+  - first:
+      213: 3857396273002397364
+    second: Male_Shirt_01_182
+  - first:
+      213: -8577434821144436897
+    second: Male_Shirt_01_183
+  - first:
+      213: 3347998357937378967
+    second: Male_Shirt_01_184
+  - first:
+      213: -8764356847114743290
+    second: Male_Shirt_01_185
+  - first:
+      213: -6250574817196928582
+    second: Male_Shirt_01_186
+  - first:
+      213: -7943724142766850906
+    second: Male_Shirt_01_187
+  - first:
+      213: -1083778591487731242
+    second: Male_Shirt_01_188
+  - first:
+      213: 14510339663128189
+    second: Male_Shirt_01_189
+  - first:
+      213: 6670036730747132305
+    second: Male_Shirt_01_190
+  - first:
+      213: 7179074504233063218
+    second: Male_Shirt_01_191
+  - first:
+      213: 6335563823390577835
+    second: Male_Shirt_01_192
+  - first:
+      213: 4803929471823784025
+    second: Male_Shirt_01_193
+  - first:
+      213: 4423931352463520812
+    second: Male_Shirt_01_194
+  - first:
+      213: -8494557493812367562
+    second: Male_Shirt_01_195
+  - first:
+      213: 9139685626240326868
+    second: Male_Shirt_01_196
+  - first:
+      213: -6188139615322768007
+    second: Male_Shirt_01_197
+  - first:
+      213: 7787066759725408602
+    second: Male_Shirt_01_198
+  - first:
+      213: -9061593305482011141
+    second: Male_Shirt_01_199
+  - first:
+      213: 8273890991617433487
+    second: Male_Shirt_01_200
+  - first:
+      213: -5897344506707218523
+    second: Male_Shirt_01_201
+  - first:
+      213: -4043247318807046628
+    second: Male_Shirt_01_202
+  - first:
+      213: -6314282290554446360
+    second: Male_Shirt_01_203
+  - first:
+      213: -6836201601071455180
+    second: Male_Shirt_01_204
+  - first:
+      213: 1907881251354770513
+    second: Male_Shirt_01_205
+  - first:
+      213: 3634181552929061126
+    second: Male_Shirt_01_206
+  - first:
+      213: -4936699903354338194
+    second: Male_Shirt_01_207
+  - first:
+      213: -2666495277967303127
+    second: Male_Shirt_01_208
+  - first:
+      213: 104659371906088284
+    second: Male_Shirt_01_209
+  - first:
+      213: 6334861030416972446
+    second: Male_Shirt_01_210
+  - first:
+      213: -2948399587459559813
+    second: Male_Shirt_01_211
+  - first:
+      213: -1708771738414459938
+    second: Male_Shirt_01_212
+  - first:
+      213: -5971655794801125081
+    second: Male_Shirt_01_213
+  - first:
+      213: -374080660058019646
+    second: Male_Shirt_01_214
+  - first:
+      213: 6094038314224506244
+    second: Male_Shirt_01_215
+  - first:
+      213: -2024946715748001375
+    second: Male_Shirt_01_216
+  - first:
+      213: 7817096361591342771
+    second: Male_Shirt_01_217
+  - first:
+      213: -7517755703260359488
+    second: Male_Shirt_01_218
+  - first:
+      213: 3229620107164637486
+    second: Male_Shirt_01_219
+  - first:
+      213: 2488516066309241417
+    second: Male_Shirt_01_220
+  - first:
+      213: 3292982761228191581
+    second: Male_Shirt_01_221
+  - first:
+      213: -4164173560708169545
+    second: Male_Shirt_01_222
+  - first:
+      213: 8159429271334596090
+    second: Male_Shirt_01_223
+  - first:
+      213: -2264195218653948029
+    second: Male_Shirt_01_224
+  - first:
+      213: -3790824119405327053
+    second: Male_Shirt_01_225
+  - first:
+      213: 636159203272917634
+    second: Male_Shirt_01_226
+  - first:
+      213: 2313575639131919221
+    second: Male_Shirt_01_227
+  - first:
+      213: 8232959027089166866
+    second: Male_Shirt_01_228
+  - first:
+      213: -7845846130198317138
+    second: Male_Shirt_01_229
+  - first:
+      213: 5042978085836606806
+    second: Male_Shirt_01_230
+  - first:
+      213: 3258815588731330301
+    second: Male_Shirt_01_231
+  - first:
+      213: -9069161578266666444
+    second: Male_Shirt_01_232
+  - first:
+      213: 4458750099953610990
+    second: Male_Shirt_01_233
+  - first:
+      213: -4391084411483552891
+    second: Male_Shirt_01_234
+  - first:
+      213: 4419018434454732280
+    second: Male_Shirt_01_235
+  - first:
+      213: 8055224071207168968
+    second: Male_Shirt_01_236
+  - first:
+      213: 6524220425269284190
+    second: Male_Shirt_01_237
+  - first:
+      213: 4852356897020334892
+    second: Male_Shirt_01_238
+  - first:
+      213: 4670892880094043201
+    second: Male_Shirt_01_239
+  - first:
+      213: -8778632028189330276
+    second: Male_Shirt_01_240
+  - first:
+      213: -4454608273948535683
+    second: Male_Shirt_01_241
+  - first:
+      213: -737685610023315023
+    second: Male_Shirt_01_242
+  - first:
+      213: 8430001472564477486
+    second: Male_Shirt_01_243
+  - first:
+      213: -7421544563281335936
+    second: Male_Shirt_01_244
+  - first:
+      213: 8533393674719654608
+    second: Male_Shirt_01_245
+  - first:
+      213: -40221214241716938
+    second: Male_Shirt_01_246
+  - first:
+      213: 564018101224322355
+    second: Male_Shirt_01_247
+  - first:
+      213: 2574061446314072243
+    second: Male_Shirt_01_248
+  - first:
+      213: -1197564936221629374
+    second: Male_Shirt_01_249
+  - first:
+      213: -540893331031810042
+    second: Male_Shirt_01_250
+  - first:
+      213: -22139586941375184
+    second: Male_Shirt_01_251
+  - first:
+      213: -3258360667386198580
+    second: Male_Shirt_01_252
+  - first:
+      213: -7218495735125167703
+    second: Male_Shirt_01_253
+  - first:
+      213: 1684642508158495926
+    second: Male_Shirt_01_254
+  - first:
+      213: -7567957797611405832
+    second: Male_Shirt_01_255
+  - first:
+      213: -8604671216568071061
+    second: Male_Shirt_01_256
+  - first:
+      213: 2959121384910868192
+    second: Male_Shirt_01_257
+  - first:
+      213: 2259103724550431661
+    second: Male_Shirt_01_258
+  - first:
+      213: 5091680844836071576
+    second: Male_Shirt_01_259
+  - first:
+      213: 4036161566970218179
+    second: Male_Shirt_01_260
+  - first:
+      213: -289960386107706272
+    second: Male_Shirt_01_261
+  - first:
+      213: -2530016782568659662
+    second: Male_Shirt_01_262
+  - first:
+      213: -2048187861977393279
+    second: Male_Shirt_01_263
+  - first:
+      213: 3368565859419069863
+    second: Male_Shirt_01_264
+  - first:
+      213: 5316992567106737024
+    second: Male_Shirt_01_265
+  - first:
+      213: -8204240269652134170
+    second: Male_Shirt_01_266
+  - first:
+      213: -4086731802852689169
+    second: Male_Shirt_01_267
+  - first:
+      213: 2466647680303255610
+    second: Male_Shirt_01_268
+  - first:
+      213: 3727073541349417109
+    second: Male_Shirt_01_269
+  - first:
+      213: -6401443219267189050
+    second: Male_Shirt_01_270
+  - first:
+      213: 6437339833989909858
+    second: Male_Shirt_01_271
+  - first:
+      213: 5651318030589129524
+    second: Male_Shirt_01_272
+  - first:
+      213: 4047670104174866762
+    second: Male_Shirt_01_273
+  - first:
+      213: -4403226385920485139
+    second: Male_Shirt_01_274
+  - first:
+      213: 8914617238814821217
+    second: Male_Shirt_01_275
+  - first:
+      213: -6153540851964573597
+    second: Male_Shirt_01_276
+  - first:
+      213: 4247369811438792948
+    second: Male_Shirt_01_277
+  - first:
+      213: 8884981215853377221
+    second: Male_Shirt_01_278
+  - first:
+      213: -5842436161494086220
+    second: Male_Shirt_01_279
+  - first:
+      213: -9172913120868431253
+    second: Male_Shirt_01_280
+  - first:
+      213: -5667520234753379812
+    second: Male_Shirt_01_281
+  - first:
+      213: -8562526370994978253
+    second: Male_Shirt_01_282
+  - first:
+      213: -621309771922812341
+    second: Male_Shirt_01_283
+  - first:
+      213: -8822543279647549751
+    second: Male_Shirt_01_284
+  - first:
+      213: 4105821547712090056
+    second: Male_Shirt_01_285
+  - first:
+      213: -2378345097924474659
+    second: Male_Shirt_01_286
+  - first:
+      213: -1633217783866604223
+    second: Male_Shirt_01_287
+  - first:
+      213: 8907916763179396937
+    second: Male_Shirt_01_288
+  - first:
+      213: 8237649934654506904
+    second: Male_Shirt_01_289
+  - first:
+      213: -21944149192713374
+    second: Male_Shirt_01_290
+  - first:
+      213: 4202699832593959205
+    second: Male_Shirt_01_291
+  - first:
+      213: -6862845305239896361
+    second: Male_Shirt_01_292
+  - first:
+      213: -5127840539049966803
+    second: Male_Shirt_01_293
+  - first:
+      213: 1482278921435725447
+    second: Male_Shirt_01_294
+  - first:
+      213: -160422380175907577
+    second: Male_Shirt_01_295
+  - first:
+      213: -9045908094724529336
+    second: Male_Shirt_01_296
+  - first:
+      213: 7076190119495495504
+    second: Male_Shirt_01_297
+  - first:
+      213: 1791404208079931846
+    second: Male_Shirt_01_298
+  - first:
+      213: 895189509111520802
+    second: Male_Shirt_01_299
+  - first:
+      213: 4213934514792350569
+    second: Male_Shirt_01_300
+  - first:
+      213: 7951878997817604938
+    second: Male_Shirt_01_301
+  - first:
+      213: 2112378735734910097
+    second: Male_Shirt_01_302
+  - first:
+      213: -6433359226519966375
+    second: Male_Shirt_01_303
+  - first:
+      213: -587948920842088874
+    second: Male_Shirt_01_304
+  - first:
+      213: -5368251023709108054
+    second: Male_Shirt_01_305
+  - first:
+      213: 1724636750818614058
+    second: Male_Shirt_01_306
+  - first:
+      213: -1635496958673491004
+    second: Male_Shirt_01_307
+  - first:
+      213: -7177148947781419100
+    second: Male_Shirt_01_308
+  - first:
+      213: 5338299840990804069
+    second: Male_Shirt_01_309
+  - first:
+      213: -5221448048157735948
+    second: Male_Shirt_01_310
+  - first:
+      213: 1876688017190254938
+    second: Male_Shirt_01_311
+  - first:
+      213: 5297067198374773898
+    second: Male_Shirt_01_312
+  - first:
+      213: -6688259992292166703
+    second: Male_Shirt_01_313
+  - first:
+      213: -6698118801795790259
+    second: Male_Shirt_01_314
+  - first:
+      213: -1533336846357263832
+    second: Male_Shirt_01_315
+  - first:
+      213: -9165169049960416408
+    second: Male_Shirt_01_316
+  - first:
+      213: 3605719465669060055
+    second: Male_Shirt_01_317
+  - first:
+      213: -3736921103136508139
+    second: Male_Shirt_01_318
+  - first:
+      213: -541414484762525516
+    second: Male_Shirt_01_319
+  - first:
+      213: -5278202318656645895
+    second: Male_Shirt_01_320
+  - first:
+      213: 5955218432442722711
+    second: Male_Shirt_01_321
+  - first:
+      213: 4460789926467120585
+    second: Male_Shirt_01_322
+  - first:
+      213: 2724636468791393023
+    second: Male_Shirt_01_323
+  - first:
+      213: 7158274698578389275
+    second: Male_Shirt_01_324
+  - first:
+      213: -8123811472806906054
+    second: Male_Shirt_01_325
+  - first:
+      213: 2520138772455861294
+    second: Male_Shirt_01_326
+  - first:
+      213: -8998629521176329037
+    second: Male_Shirt_01_327
+  - first:
+      213: 5292331426980688570
+    second: Male_Shirt_01_328
+  - first:
+      213: -6937784294054995370
+    second: Male_Shirt_01_329
+  - first:
+      213: 5136757222199121043
+    second: Male_Shirt_01_330
+  - first:
+      213: -4244436332018502131
+    second: Male_Shirt_01_331
+  - first:
+      213: -7803254562677747111
+    second: Male_Shirt_01_332
+  - first:
+      213: 1802679020619227599
+    second: Male_Shirt_01_333
+  - first:
+      213: -165011939519252616
+    second: Male_Shirt_01_334
+  - first:
+      213: -597463877499054897
+    second: Male_Shirt_01_335
+  - first:
+      213: -5783228537290078173
+    second: Male_Shirt_01_336
+  - first:
+      213: -2759673437005012603
+    second: Male_Shirt_01_337
+  - first:
+      213: -6786037442459459722
+    second: Male_Shirt_01_338
+  - first:
+      213: -1598026207453743366
+    second: Male_Shirt_01_339
+  - first:
+      213: 8429343718801385353
+    second: Male_Shirt_01_340
+  - first:
+      213: 8865715052533734222
+    second: Male_Shirt_01_341
+  - first:
+      213: -7567434542197387510
+    second: Male_Shirt_01_342
+  - first:
+      213: 8979544966120619309
+    second: Male_Shirt_01_343
+  - first:
+      213: 6430648762773408392
+    second: Male_Shirt_01_344
+  - first:
+      213: 3778039342243950912
+    second: Male_Shirt_01_345
+  - first:
+      213: 1931793802389615625
+    second: Male_Shirt_01_346
+  - first:
+      213: -8492650523813311731
+    second: Male_Shirt_1_0
+  - first:
+      213: -5387922699179675307
+    second: Male_Shirt_1_1
+  - first:
+      213: -908871858955174387
+    second: Male_Shirt_1_2
+  - first:
+      213: 2412685884524668262
+    second: Male_Shirt_1_3
+  - first:
+      213: 5721183098717004447
+    second: Male_Shirt_1_4
+  - first:
+      213: 5424435853052139484
+    second: Male_Shirt_1_5
+  - first:
+      213: 3742598761736670771
+    second: Male_Shirt_1_6
+  - first:
+      213: -1695529901365076677
+    second: Male_Shirt_1_7
+  - first:
+      213: 6404930216855169776
+    second: Male_Shirt_1_8
+  - first:
+      213: 9079468563145661050
+    second: Male_Shirt_1_9
+  - first:
+      213: 8887645950898789220
+    second: Male_Shirt_1_10
+  - first:
+      213: 7796364103162580056
+    second: Male_Shirt_1_11
+  - first:
+      213: -6932942838731487038
+    second: Male_Shirt_1_12
+  - first:
+      213: -3147193828397050494
+    second: Male_Shirt_1_13
+  - first:
+      213: 497811458964950302
+    second: Male_Shirt_1_14
+  - first:
+      213: 3524347785703843605
+    second: Male_Shirt_1_15
+  - first:
+      213: -3881716368037228337
+    second: Male_Shirt_1_16
+  - first:
+      213: -7969325344278799000
+    second: Male_Shirt_1_17
+  - first:
+      213: 379877812101685411
+    second: Male_Shirt_1_18
+  - first:
+      213: -5994179616855626289
+    second: Male_Shirt_1_19
+  - first:
+      213: -8042022017148483978
+    second: Male_Shirt_1_20
+  - first:
+      213: 7180168820854209332
+    second: Male_Shirt_1_21
+  - first:
+      213: -8379195706671774919
+    second: Male_Shirt_1_22
+  - first:
+      213: 6003384956507706435
+    second: Male_Shirt_1_23
+  - first:
+      213: -7287432447956527804
+    second: Male_Shirt_1_24
+  - first:
+      213: 4376601996802100940
+    second: Male_Shirt_1_25
+  - first:
+      213: -7958207236158182421
+    second: Male_Shirt_1_26
+  - first:
+      213: -3968336484909131789
+    second: Male_Shirt_1_27
+  - first:
+      213: 8196606753447482492
+    second: Male_Shirt_1_28
+  - first:
+      213: -2323623334655038347
+    second: Male_Shirt_1_29
+  - first:
+      213: -6897613609785137308
+    second: Male_Shirt_1_30
+  - first:
+      213: 3080649361130055040
+    second: Male_Shirt_1_31
+  - first:
+      213: -4307883620726158475
+    second: Male_Shirt_1_32
+  - first:
+      213: -2543530512969527135
+    second: Male_Shirt_1_33
+  - first:
+      213: -8491240293868428156
+    second: Male_Shirt_1_34
+  - first:
+      213: 4181131950639535213
+    second: Male_Shirt_1_35
+  - first:
+      213: -8719744444582966280
+    second: Male_Shirt_1_36
+  - first:
+      213: -8677797539426398401
+    second: Male_Shirt_1_37
+  - first:
+      213: 7505098774507131096
+    second: Male_Shirt_1_38
+  - first:
+      213: 3494656227568397427
+    second: Male_Shirt_1_39
+  - first:
+      213: 1869599053062541954
+    second: Male_Shirt_1_40
+  - first:
+      213: -1636128384136067847
+    second: Male_Shirt_1_41
+  - first:
+      213: -5727014204851960804
+    second: Male_Shirt_1_42
+  - first:
+      213: 2053695434839470866
+    second: Male_Shirt_1_43
+  - first:
+      213: -6714783706620469714
+    second: Male_Shirt_1_44
+  - first:
+      213: 3602832924310484863
+    second: Male_Shirt_1_45
+  - first:
+      213: 6560325641000766003
+    second: Male_Shirt_1_46
+  - first:
+      213: 510801400702175539
+    second: Male_Shirt_1_47
+  - first:
+      213: -6209396901796678102
+    second: Male_Shirt_1_48
+  - first:
+      213: 5556007051115455931
+    second: Male_Shirt_1_49
+  - first:
+      213: -3323750679341558288
+    second: Male_Shirt_1_50
+  - first:
+      213: 4083279540831702264
+    second: Male_Shirt_1_51
+  - first:
+      213: 8667956224225493396
+    second: Male_Shirt_1_52
+  - first:
+      213: 5612596718287364000
+    second: Male_Shirt_1_53
+  - first:
+      213: -7756072397731325496
+    second: Male_Shirt_1_54
+  - first:
+      213: -768830505050552090
+    second: Male_Shirt_1_55
+  - first:
+      213: 3006544186584780403
+    second: Male_Shirt_1_56
+  - first:
+      213: 7327233679744318640
+    second: Male_Shirt_1_57
+  - first:
+      213: 3562905258677059012
+    second: Male_Shirt_1_58
+  - first:
+      213: -1542457899874097490
+    second: Male_Shirt_1_59
+  - first:
+      213: 6901844476357320773
+    second: Male_Shirt_1_60
+  - first:
+      213: 2011385618602395251
+    second: Male_Shirt_1_61
+  - first:
+      213: 45958792822123113
+    second: Male_Shirt_1_62
+  - first:
+      213: -2820810480875496217
+    second: Male_Shirt_1_63
+  - first:
+      213: -1844301231051683482
+    second: Male_Shirt_1_64
+  - first:
+      213: -5624606773523488297
+    second: Male_Shirt_1_65
+  - first:
+      213: 71413842095283010
+    second: Male_Shirt_1_66
+  - first:
+      213: 8392510646913522512
+    second: Male_Shirt_1_67
+  - first:
+      213: 6111441495971545820
+    second: Male_Shirt_1_68
+  - first:
+      213: 6856369169113546254
+    second: Male_Shirt_1_69
+  - first:
+      213: 3985744212558372275
+    second: Male_Shirt_1_70
+  - first:
+      213: 8896111933614767270
+    second: Male_Shirt_1_71
+  - first:
+      213: 6177571053473190774
+    second: shirt_slice_0
+  - first:
+      213: -7561897833640807042
+    second: shirt_slice_1
+  - first:
+      213: -1208268841737646188
+    second: shirt_slice_2
+  - first:
+      213: -6475813330024326348
+    second: shirt_slice_3
+  - first:
+      213: -457518286151161281
+    second: shirt_slice_4
+  - first:
+      213: -8621729545337999152
+    second: shirt_slice_5
+  - first:
+      213: -1788971380711217793
+    second: shirt_slice_6
+  - first:
+      213: 7734411822484782646
+    second: shirt_slice_7
+  - first:
+      213: 2593403144865094428
+    second: shirt_slice_8
+  - first:
+      213: 2937274209128295164
+    second: shirt_slice_9
+  - first:
+      213: -2793616627317875211
+    second: shirt_slice_10
+  - first:
+      213: 5950913732657650243
+    second: shirt_slice_11
+  - first:
+      213: 5784786361243916364
+    second: shirt_slice_12
+  - first:
+      213: -3647048578202433551
+    second: shirt_slice_13
+  - first:
+      213: 2357031387668732126
+    second: shirt_slice_14
+  - first:
+      213: -3354067697050844564
+    second: shirt_slice_15
+  - first:
+      213: -8056402586125023177
+    second: shirt_slice_16
+  - first:
+      213: 4141839422874803895
+    second: shirt_slice_17
+  - first:
+      213: -2247523432332627213
+    second: shirt_slice_18
+  - first:
+      213: 5325068469653501982
+    second: shirt_slice_19
+  - first:
+      213: 3216963646675246025
+    second: shirt_slice_20
+  - first:
+      213: 3360698647848309617
+    second: shirt_slice_21
+  - first:
+      213: 2747697137819511470
+    second: shirt_slice_22
+  - first:
+      213: 65398858320882647
+    second: shirt_slice_23
+  - first:
+      213: 1224613625666800860
+    second: shirt_slice_24
+  - first:
+      213: 938884883139530546
+    second: shirt_slice_25
+  - first:
+      213: -8274215897423890846
+    second: shirt_slice_26
+  - first:
+      213: 6457919601938760955
+    second: shirt_slice_27
+  - first:
+      213: -4057198070317416783
+    second: shirt_slice_28
+  - first:
+      213: 1291027237223609079
+    second: shirt_slice_29
+  - first:
+      213: 2708481069228091305
+    second: shirt_slice_30
+  - first:
+      213: 5414565640009230971
+    second: shirt_slice_31
+  - first:
+      213: 1504672026866266597
+    second: shirt_slice_32
+  - first:
+      213: 5882854723748901332
+    second: shirt_slice_33
+  - first:
+      213: -7147241997619004655
+    second: shirt_slice_34
+  - first:
+      213: -1992352145225271542
+    second: shirt_slice_35
+  - first:
+      213: 2495001033433695530
+    second: shirt_slice_36
+  - first:
+      213: -4991772527174469108
+    second: shirt_slice_37
+  - first:
+      213: -4018105572011829294
+    second: shirt_slice_38
+  - first:
+      213: -8476530561599212481
+    second: shirt_slice_39
+  - first:
+      213: 3859380104306746635
+    second: shirt_slice_40
+  - first:
+      213: 6841041002338689242
+    second: shirt_slice_41
+  - first:
+      213: 1625260904031180504
+    second: shirt_slice_42
+  - first:
+      213: 5928311483393211749
+    second: shirt_slice_43
+  - first:
+      213: 4390015093043105206
+    second: shirt_slice_44
+  - first:
+      213: 7563750025173215360
+    second: shirt_slice_45
+  - first:
+      213: 4891409736354941274
+    second: shirt_slice_46
+  - first:
+      213: -5169337411742808851
+    second: shirt_slice_47
+  - first:
+      213: 8428536801464017211
+    second: shirt_slice_48
+  - first:
+      213: -9184924980902447253
+    second: shirt_slice_49
+  - first:
+      213: -2125961283316808418
+    second: shirt_slice_50
+  - first:
+      213: 3113369021540034934
+    second: shirt_slice_51
+  - first:
+      213: 1524360629251680073
+    second: shirt_slice_52
+  - first:
+      213: 488367924966637110
+    second: shirt_slice_53
+  - first:
+      213: 1962157121498219990
+    second: shirt_slice_54
+  - first:
+      213: 5908454294276501265
+    second: shirt_slice_55
+  - first:
+      213: -6262676823940058058
+    second: shirt_slice_56
+  - first:
+      213: -3097472834165380424
+    second: shirt_slice_57
+  - first:
+      213: 20535948900829134
+    second: shirt_slice_58
+  - first:
+      213: -5393378650873139785
+    second: shirt_slice_59
+  - first:
+      213: 8591390112559565577
+    second: shirt_slice_60
+  - first:
+      213: 8600031753953527803
+    second: shirt_slice_61
+  - first:
+      213: -8411322940694582713
+    second: shirt_slice_62
+  - first:
+      213: 1859467754047522467
+    second: shirt_slice_63
+  - first:
+      213: -4626373664693408887
+    second: shirt_slice_64
+  - first:
+      213: -7174119439391087199
+    second: shirt_slice_65
+  - first:
+      213: -7486344018656717575
+    second: shirt_slice_66
+  - first:
+      213: 8741338445629094494
+    second: shirt_slice_67
+  - first:
+      213: -980480783330715168
+    second: shirt_slice_68
+  - first:
+      213: 5583015285866007228
+    second: shirt_slice_69
+  - first:
+      213: -8410522289282496309
+    second: shirt_slice_70
+  - first:
+      213: -5553676102714235912
+    second: shirt_slice_71
+  - first:
+      213: -5244192030381413718
+    second: slice_0
+  - first:
+      213: -5259613283866949143
+    second: slice_1
+  - first:
+      213: 352875822335397140
+    second: slice_2
+  - first:
+      213: -2236261274525165896
+    second: slice_3
+  - first:
+      213: 6621490530489030253
+    second: slice_4
+  - first:
+      213: -6688262906725998185
+    second: slice_5
+  - first:
+      213: -1053324542250098709
+    second: slice_6
+  - first:
+      213: 8104877108287858044
+    second: slice_7
+  - first:
+      213: 7810566229927954191
+    second: slice_8
+  - first:
+      213: -8762270383270282824
+    second: slice_9
+  - first:
+      213: 3682183997706304989
+    second: slice_10
+  - first:
+      213: -6571651245550171994
+    second: slice_11
+  - first:
+      213: -5968872473750288097
+    second: slice_12
+  - first:
+      213: -9203146340520031903
+    second: slice_13
+  - first:
+      213: 2700166364925402720
+    second: slice_14
+  - first:
+      213: -5153614277313978595
+    second: slice_15
+  - first:
+      213: -392989234627635241
+    second: slice_16
+  - first:
+      213: -6253439379713027995
+    second: slice_17
+  - first:
+      213: 5188303405551212911
+    second: slice_18
+  - first:
+      213: 5836217473826336987
+    second: slice_19
+  - first:
+      213: -3883135203657445769
+    second: slice_20
+  - first:
+      213: -1913922074371500162
+    second: slice_21
+  - first:
+      213: 7544235816267076048
+    second: slice_22
+  - first:
+      213: -2231836367802521397
+    second: slice_23
+  - first:
+      213: -8980180430799158349
+    second: slice_24
+  - first:
+      213: -2323747974253989042
+    second: slice_25
+  - first:
+      213: 1112826425918007258
+    second: slice_26
+  - first:
+      213: 4858396686986717012
+    second: slice_27
+  - first:
+      213: 3510660279286659285
+    second: slice_28
+  - first:
+      213: 7733670653014297082
+    second: slice_29
+  - first:
+      213: 2422145196652074849
+    second: slice_30
+  - first:
+      213: -5637352253757023235
+    second: slice_31
+  - first:
+      213: -6603635930205782264
+    second: slice_32
+  - first:
+      213: 1033536741975736664
+    second: slice_33
+  - first:
+      213: -9131777891535317778
+    second: slice_34
+  - first:
+      213: -8336016556448418450
+    second: slice_35
+  - first:
+      213: -5165261816124806613
+    second: slice_36
+  - first:
+      213: -4871728494400778103
+    second: slice_37
+  - first:
+      213: -819036105198590624
+    second: slice_38
+  - first:
+      213: 2628414863594179925
+    second: slice_39
+  - first:
+      213: -190471053363861642
+    second: slice_40
+  - first:
+      213: -4180497353761331381
+    second: slice_41
+  - first:
+      213: -5707321345364296901
+    second: slice_42
+  - first:
+      213: -4111464525791679507
+    second: slice_43
+  - first:
+      213: -5484299848272446478
+    second: slice_44
+  - first:
+      213: -8802500328361628891
+    second: slice_45
+  - first:
+      213: -7648530762109716291
+    second: slice_46
+  - first:
+      213: -2762443393181944563
+    second: slice_47
+  - first:
+      213: 705399710148045111
+    second: slice_48
+  - first:
+      213: -7315239225786693254
+    second: slice_49
+  - first:
+      213: 4439986428971823795
+    second: slice_50
+  - first:
+      213: -8744681197172668990
+    second: slice_51
+  - first:
+      213: 6462618899008945851
+    second: slice_52
+  - first:
+      213: 1704320215905441210
+    second: slice_53
+  - first:
+      213: 4020181913623296558
+    second: slice_54
+  - first:
+      213: 4288024247731216016
+    second: slice_55
+  - first:
+      213: -1827615003350072719
+    second: slice_56
+  - first:
+      213: -1505633838515798272
+    second: slice_57
+  - first:
+      213: 8122756884348182608
+    second: slice_58
+  - first:
+      213: 8759130226491826716
+    second: slice_59
+  - first:
+      213: 4064437803888988908
+    second: slice_60
+  - first:
+      213: 4113112423609691234
+    second: slice_61
+  - first:
+      213: 2685781147342087181
+    second: slice_62
+  - first:
+      213: 8426107813919935335
+    second: slice_63
+  - first:
+      213: -1371079849119732175
+    second: slice_64
+  - first:
+      213: -1801518196583602782
+    second: slice_65
+  - first:
+      213: 4212146188350351953
+    second: slice_66
+  - first:
+      213: 2658223877080360609
+    second: slice_67
+  - first:
+      213: -1735156387555903672
+    second: slice_68
+  - first:
+      213: 512077618048509400
+    second: slice_69
+  - first:
+      213: -156417356259315302
+    second: slice_70
+  - first:
+      213: -4289890119396214965
+    second: slice_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6e2f1223e837b0800000000000000
+      internalID: -5244192030381413718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94f2fb5991207b0800000000000000
+      internalID: -5259613283866949143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0028d0baa5e400800000000000000
+      internalID: 352875822335397140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b617f2183437f0e0800000000000000
+      internalID: -2236261274525165896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6659692e8244eb50800000000000000
+      internalID: 6621490530489030253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791ec2082548e23a0800000000000000
+      internalID: -6688262906725998185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5bf9d8e6d161f0800000000000000
+      internalID: -1053324542250098709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7561bbd9ce4a7070800000000000000
+      internalID: 8104877108287858044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 686
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07848d9a94b46c60800000000000000
+      internalID: 7810566229927954191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9bf3bc289266680800000000000000
+      internalID: -8762270383270282824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd79ec36deb91330800000000000000
+      internalID: 3682183997706304989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a88a31a20eccc4a0800000000000000
+      internalID: -6571651245550171994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c18c0c1e4a2da0800000000000000
+      internalID: -5968872473750288097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1690e55e92bd74080800000000000000
+      internalID: -9203146340520031903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e16d7b00be87520800000000000000
+      internalID: 2700166364925402720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f915bae1faa78b0800000000000000
+      internalID: -5153614277313978595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7977d8f52db8af0800000000000000
+      internalID: -392989234627635241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 588
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56014cb24025739a0800000000000000
+      internalID: -6253439379713027995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6954d2657e800840800000000000000
+      internalID: 5188303405551212911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b85feed86ef050800000000000000
+      internalID: 5836217473826336987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e0f232b155c1ac0800000000000000
+      internalID: -3883135203657445769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77de4583026075e0800000000000000
+      internalID: -1913922074371500162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d06af08282b860800000000000000
+      internalID: 7544235816267076048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc82554f5ace601e0800000000000000
+      internalID: -2231836367802521397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34d4b2a7dff5380800000000000000
+      internalID: -8980180430799158349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43be07778360cfd0800000000000000
+      internalID: -2323747974253989042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 490
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7a2850dbd817f00800000000000000
+      internalID: 1112826425918007258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45727c1cb0e7c6340800000000000000
+      internalID: 4858396686986717012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d874f97cee58b030800000000000000
+      internalID: 3510660279286659285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9c7c2fb74835b60800000000000000
+      internalID: 7733670653014297082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1679dd829303d9120800000000000000
+      internalID: 2422145196652074849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb90114ef914c1b0800000000000000
+      internalID: -5637352253757023235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff31aeb1c2b54a0800000000000000
+      internalID: -6603635930205782264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85147cfd03cd75e00800000000000000
+      internalID: 1033536741975736664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4954fc368654180800000000000000
+      internalID: -9131777891535317778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 392
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65fd17ab15805c80800000000000000
+      internalID: -8336016556448418450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aedf5bebd4158b0800000000000000
+      internalID: -5165261816124806613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d711feb4246cb0800000000000000
+      internalID: -4871728494400778103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0652b63700332a4f0800000000000000
+      internalID: -819036105198590624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d43ea74610a7420800000000000000
+      internalID: 2628414863594179925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677a04c069f4b5df0800000000000000
+      internalID: -190471053363861642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4768945ec3ebf5c0800000000000000
+      internalID: -4180497353761331381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b7e8e99758bc0b0800000000000000
+      internalID: -5707321345364296901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb21991cc421f6c0800000000000000
+      internalID: -4111464525791679507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 294
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbfdf5585ad3e3b0800000000000000
+      internalID: -5484299848272446478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52beeb8c69c37d580800000000000000
+      internalID: -8802500328361628891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87dc6abc5fad590800000000000000
+      internalID: -7648530762109716291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f345be54d9a9d0800000000000000
+      internalID: -2762443393181944563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a90c8c451ac900800000000000000
+      internalID: 705399710148045111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a790bf39eac0b7a90800000000000000
+      internalID: -7315239225786693254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2bb6212200e9d30800000000000000
+      internalID: 4439986428971823795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54c7058c6a4a680800000000000000
+      internalID: -8744681197172668990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe7722f5a5dfa950800000000000000
+      internalID: 6462618899008945851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 196
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59f8cd436f6a710800000000000000
+      internalID: 1704320215905441210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a77fd862e8ac730800000000000000
+      internalID: 4020181913623296558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ed74a955f128b30800000000000000
+      internalID: 4288024247731216016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172052b66d103a6e0800000000000000
+      internalID: -1827615003350072719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f3575400aea1be0800000000000000
+      internalID: -1505633838515798272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ae60a954d9b070800000000000000
+      internalID: 8122756884348182608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12ae6b788eae8970800000000000000
+      internalID: 8759130226491826716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d878f5a8c76830800000000000000
+      internalID: 4064437803888988908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c608205f5b41930800000000000000
+      internalID: 4113112423609691234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 98
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0424cf39bfc54520800000000000000
+      internalID: 2685781147342087181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b47dfc96c8fe470800000000000000
+      internalID: 8426107813919935335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea58a3422f8fce0800000000000000
+      internalID: -1371079849119732175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a56b3cbeb8bff6e0800000000000000
+      internalID: -1801518196583602782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a63a234ac847a30800000000000000
+      internalID: 4212146188350351953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a626d64888e3e420800000000000000
+      internalID: 2658223877080360609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847faf1757c7be7e0800000000000000
+      internalID: -1735156387555903672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a53961e34b1700800000000000000
+      internalID: 512077618048509400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9135734e3b44ddf0800000000000000
+      internalID: -156417356259315302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slice_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b473eeb4aaf3774c0800000000000000
+      internalID: -4289890119396214965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f9dfa71b06515fc46b0b54f89eb2958c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
