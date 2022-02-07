@@ -4,17 +4,17 @@
 
 # A simple system for interchangeable character skins in a top-down 2D enviroment.
 
-##Features:
+## Features:
 
-###Character movement
+### Character movement
 
-###Camera controller
+### Camera controller
 
-###Interactable NPCs
+### Interactable NPCs
 
-###Shop to buy items
+### Shop to buy items
 
-###Inventory
+### Inventory
 
 
 
