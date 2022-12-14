@@ -40,6 +40,9 @@ public class CameraController : Singleton<CameraController>
 
     private void LateUpdate()
     {
+        if(target == null)
+            return;
+            
         if(_isZoomingIn)
         {
             _camera.orthographicSize -= zoomSpeed * Time.deltaTime;

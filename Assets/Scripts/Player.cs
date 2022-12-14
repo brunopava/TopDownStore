@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Mirror;
 
-public class Player : MonoBehaviour
+public class Player : NetworkBehaviour
 {
 	private BoxCollider2D _playerCollider;
 
@@ -30,6 +31,11 @@ public class Player : MonoBehaviour
     	NotificationCenter.DefaultCenter.AddObserver(this, "DisableMovement");
     }
 
+    public override void OnStartLocalPlayer()
+    {
+    	CameraController.Instance.target = transform;
+    }
+
     private void EnableMovement()
     {
     	_canMove = true;
@@ -42,7 +48,7 @@ public class Player : MonoBehaviour
 
     private	 void FixedUpdate()
     {
-    	if(_canMove)
+    	if(_canMove && isLocalPlayer)
     	{
 	    	float x = Input.GetAxis("Horizontal");
 	    	float y = Input.GetAxis("Vertical");
